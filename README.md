@@ -1,4 +1,6 @@
 # Creative-Making-MSc-Advanced-Project-Blog
+
+github link:https://github.com/YunfanGuo/Creative-Making-MSc-Advanced-Project/tree/main
 ## Introduction
 In modern society, although the rapid development of technology has provided us with more convenience, however, people's perception of time in daily life is facing new challenges. Social media, digital entertainment, and fast-paced work life make people tend to get lost in the passage of time. This fuzzy sense of time may lead to individual troubles in time management, affecting life efficiency and satisfaction. Therefore, I hope to design and produce an interactive device to trigger people's perception of the passage of time.
 
